@@ -1,0 +1,27 @@
+{
+    "boardName": "",
+    "boardRev": "",
+    "cameraData": [],
+    "imuExtrinsics": {
+        "rotationMatrix": [],
+        "specTranslation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "toCameraSocket": -1,
+        "translation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    },
+    "miscellaneousData": [],
+    "stereoRectificationData": {
+        "leftCameraSocket": -1,
+        "rectifiedRotationLeft": [],
+        "rectifiedRotationRight": [],
+        "rightCameraSocket": -1
+    },
+    "version": 255
+}
