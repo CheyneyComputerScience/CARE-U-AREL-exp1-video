@@ -38,13 +38,13 @@ for X in */ ; do
                        if [[ "$col1" != "opening" && "$col1" != "closing"  && "$col1" != "open" ]] ; then
                            mkdir -p largeStills/${col1}
                            if [[ -f movies/${col1}/${col1}-${col3}-color.mp4 && ! -f largeStills/${col1}/${col1}-${col3}-color.png ]] ; then
-                               ffmpeg -ss 2.5 -i movies/${col1}/${col1}-${col3}-color.mp4 -r 1 -t 1 largeStills/${col1}/${col1}-${col3}-color.png
+                               ffmpeg -ss 4.5 -i movies/${col1}/${col1}-${col3}-color.mp4 -r 1 -t 1 largeStills/${col1}/${col1}-${col3}-color.png
                            fi
                            if [[ -f movies/${col1}/${col1}-${col3}-mono1.mp4 && ! -f largeStills/${col1}/${col1}-${col3}-mono1.png ]] ; then
-                               ffmpeg -ss 2.5 -i movies/${col1}/${col1}-${col3}-mono1.mp4 -r 1 -t 1 largeStills/${col1}/${col1}-${col3}-mono1.png
+                               ffmpeg -ss 4.5 -i movies/${col1}/${col1}-${col3}-mono1.mp4 -r 1 -t 1 largeStills/${col1}/${col1}-${col3}-mono1.png
                            fi
                            if [[ -f movies/${col1}/${col1}-${col3}-mono2.mp4 && ! -f largeStills/${col1}/${col1}-${col3}-mono2.png ]] ; then
-                               ffmpeg -ss 2.5 -i movies/${col1}/${col1}-${col3}-mono2.mp4 -r 1 -t 1 largeStills/${col1}/${col1}-${col3}-mono2.png
+                               ffmpeg -ss 4.5 -i movies/${col1}/${col1}-${col3}-mono2.mp4 -r 1 -t 1 largeStills/${col1}/${col1}-${col3}-mono2.png
                            fi
                        fi
                    fi

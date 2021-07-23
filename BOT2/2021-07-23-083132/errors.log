@@ -1,0 +1,67 @@
+Calibration Data on the device is backed up at:
+/CARE-U/recordings/2021-07-23-083132/depthai_calib.json
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful

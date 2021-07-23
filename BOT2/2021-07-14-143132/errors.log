@@ -1,0 +1,57 @@
+Calibration Data on the device is backed up at:
+/CARE-U/recordings/2021-07-14-143132/depthai_calib.json
+Connected!
+Command execution successful
+Will loop for 5 seconds
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 86, in <module>
+    while outQ2.has():
+RuntimeError: Communication exception - possible device error/misconfiguration. Original message 'Couldn't read data from stream: 've2Out' (X_LINK_ERROR)'
+Connected!
+Command execution successful
+Will loop for 5 seconds
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 89, in <module>
+    while outQ3.has():
+RuntimeError: Communication exception - possible device error/misconfiguration. Original message 'Couldn't read data from stream: 've3Out' (X_LINK_ERROR)'
+Connected!
+Command execution successful
+Connected!
+Command execution successful
+Will loop for 5 seconds
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 89, in <module>
+    while outQ3.has():
+RuntimeError: Communication exception - possible device error/misconfiguration. Original message 'Couldn't read data from stream: 've3Out' (X_LINK_ERROR)'
+Connected!
+Command execution successful
+Will loop for 5 seconds
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 89, in <module>
+    while outQ3.has():
+RuntimeError: Communication exception - possible device error/misconfiguration. Original message 'Couldn't read data from stream: 've3Out' (X_LINK_ERROR)'
+Connected!
+Command execution successful
+Connected!
+Command execution successful
+Will loop for 5 seconds
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 89, in <module>
+    while outQ3.has():
+RuntimeError: Communication exception - possible device error/misconfiguration. Original message 'Couldn't read data from stream: 've3Out' (X_LINK_ERROR)'
+Connected!
+Command execution successful
+Will loop for 5 seconds
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 89, in <module>
+    while outQ3.has():
+RuntimeError: Communication exception - possible device error/misconfiguration. Original message 'Couldn't read data from stream: 've3Out' (X_LINK_ERROR)'
+Connected!
+Command execution successful
+Will loop for 5 seconds
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 83, in <module>
+    while outQ1.has():
+RuntimeError: Communication exception - possible device error/misconfiguration. Original message 'Couldn't read data from stream: 've1Out' (X_LINK_ERROR)'
+Connected!
+Command execution successful

@@ -1,0 +1,65 @@
+Calibration Data on the device is backed up at:
+/CARE-U/recordings/2021-07-15-063132/depthai_calib.json
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 72, in <module>
+    outQ1 = dev.getOutputQueue('ve1Out', maxSize=30, blocking=True)
+ValueError: Device already closed or disconnected
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 68, in <module>
+    with dai.Device(pipeline) as dev:
+ValueError: Device already closed or disconnected
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 15 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 15 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 15 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
