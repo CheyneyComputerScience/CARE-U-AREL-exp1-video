@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/calibration_backup-AREL.py", line 19, in <module>
+    with dai.Device() as device:
+RuntimeError: Failed to find device (ma2480), error message: X_LINK_DEVICE_NOT_FOUND
+Connected!
+Command execution successful
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 68, in <module>
+    with dai.Device(pipeline) as dev:
+RuntimeError: Failed to find device (ma2480), error message: X_LINK_DEVICE_NOT_FOUND
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 68, in <module>
+    with dai.Device(pipeline) as dev:
+RuntimeError: Failed to find device (ma2480), error message: X_LINK_DEVICE_NOT_FOUND
+/CARE-U/AREL-record-roundTrip.sh: line 67: uhubctl: command not found

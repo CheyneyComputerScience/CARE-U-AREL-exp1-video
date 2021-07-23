@@ -1,0 +1,70 @@
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/calibration_backup-AREL.py", line 20, in <module>
+    deviceCalib = device.readCalibration()
+RuntimeError: [nanorpc::packer::nlohmann_msgpack::deserializer] Empty stream.
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+/CARE-U/AREL-record.sh: line 77: uhubctl: command not found
+Connected!
+Command execution successful

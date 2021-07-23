@@ -1,0 +1,87 @@
+Calibration Data on the device is backed up at:
+/CARE-U/recordings/2021-07-23-113233/depthai_calib.json
+Connected!
+Command execution successful
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 72, in <module>
+    outQ1 = dev.getOutputQueue('ve1Out', maxSize=30, blocking=True)
+ValueError: Device already closed or disconnected
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 68, in <module>
+    with dai.Device(pipeline) as dev:
+RuntimeError: [nanorpc::packer::nlohmann_msgpack::deserializer] Empty stream.
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Current status for hub 2 [1d6b:0003 Linux 5.8.0-1024-raspi xhci-hcd xHCI Host Controller 0000:01:00.0, USB 3.00, 4 ports]
+  Port 1: 02a0 power 5gbps Rx.Detect
+  Port 2: 02a0 power 5gbps Rx.Detect
+  Port 3: 02a0 power 5gbps Rx.Detect
+  Port 4: 02a0 power 5gbps Rx.Detect
+Sent power off request
+New status for hub 2 [1d6b:0003 Linux 5.8.0-1024-raspi xhci-hcd xHCI Host Controller 0000:01:00.0, USB 3.00, 4 ports]
+  Port 1: 0080 off
+  Port 2: 0080 off
+  Port 3: 0080 off
+  Port 4: 0080 off
+Current status for hub 1-1 [2109:3431 USB2.0 Hub, USB 2.10, 4 ports]
+  Port 1: 0100 power
+  Port 2: 0503 power highspeed enable connect [03e7:2485 Movidius Ltd. Movidius MyriadX 03e72485]
+  Port 3: 0100 power
+  Port 4: 0100 power
+Sent power off request
+New status for hub 1-1 [2109:3431 USB2.0 Hub, USB 2.10, 4 ports]
+  Port 1: 0000 off
+  Port 2: 0000 off
+  Port 3: 0000 off
+  Port 4: 0000 off
+Connected!
+Command execution successful

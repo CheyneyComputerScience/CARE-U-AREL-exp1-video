@@ -1,0 +1,89 @@
+Calibration Data on the device is backed up at:
+/CARE-U/recordings/2021-07-19-193132/depthai_calib.json
+Connected!
+Command execution successful
+Traceback (most recent call last):
+  File "/CARE-U/depthai-python/examples/encoding_max_limit-AREL.py", line 68, in <module>
+    with dai.Device(pipeline) as dev:
+RuntimeError: [json.exception.parse_error.110] parse error at byte 2: syntax error while parsing MessagePack value: expected end of input; last byte: 0xC0
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+PyGattLib ERROR: connect error: Function not implemented (38)
+Traceback (most recent call last):
+  File "/CARE-U/python-host/switchbot_py3_AREL.py", line 232, in <module>
+    main()
+  File "/CARE-U/python-host/switchbot_py3_AREL.py", line 227, in main
+    driver.run_command(opts.command)
+  File "/CARE-U/python-host/switchbot_py3_AREL.py", line 174, in run_command
+    with connect(self.device, self.bt_interface, self.timeout_secs) as req:
+  File "/usr/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/CARE-U/python-host/switchbot_py3_AREL.py", line 50, in connect
+    raise ConnectionError('Connection to {} timed out after {} seconds'.
+ConnectionError: Connection to D6:4A:69:3E:1D:8F timed out after 5 seconds
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+Connected!
+Command execution successful
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+PyGattLib ERROR: connect error: Function not implemented (38)
+Traceback (most recent call last):
+  File "/CARE-U/python-host/switchbot_py3_AREL.py", line 232, in <module>
+    main()
+  File "/CARE-U/python-host/switchbot_py3_AREL.py", line 227, in main
+    driver.run_command(opts.command)
+  File "/CARE-U/python-host/switchbot_py3_AREL.py", line 174, in run_command
+    with connect(self.device, self.bt_interface, self.timeout_secs) as req:
+  File "/usr/lib/python3.8/contextlib.py", line 113, in __enter__
+    return next(self.gen)
+  File "/CARE-U/python-host/switchbot_py3_AREL.py", line 50, in connect
+    raise ConnectionError('Connection to {} timed out after {} seconds'.
+ConnectionError: Connection to D6:4A:69:3E:1D:8F timed out after 5 seconds
+Will loop for 5 seconds
+To view the encoded data, convert the stream file (.h264/.h265) into a video file (.mp4), using commands below:
+ffmpeg -framerate 25 -i mono1.h264 -c copy mono1.mp4
+ffmpeg -framerate 25 -i mono2.h264 -c copy mono2.mp4
+ffmpeg -framerate 25 -i color.h265 -c copy color.mp4
+/CARE-U/AREL-record.sh: line 77: uhubctl: command not found
+Connected!
+Command execution successful
